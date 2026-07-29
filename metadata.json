@@ -1,0 +1,8 @@
+{
+  "name": "Remix Textile Connect BD",
+  "description": "Professional networking and career platform for the Textile \u0026 Apparel industry in Bangladesh, featuring smart search, company and university directories, feed, messaging, job portal, and AI tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
